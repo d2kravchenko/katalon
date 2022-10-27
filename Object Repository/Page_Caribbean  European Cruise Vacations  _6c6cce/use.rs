@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>83f110ae-62c9-455d-bb06-41c443b13906</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.Icon.Modal__content__close.js-Modal__content__close > svg > use</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>8331c10f-e6e4-4246-9621-4469e58efceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dam/jcr:8ee18bcc-a370-40fe-b350-a64dde63fb55/cms.svg#close</value>
+      <webElementGuid>6df986be-b699-4d11-a2ed-de9dcf28ff84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;WebMarketing booking-flow__external-header has-hover is-nav-hidden nav-at-the-top&quot;]/div[@class=&quot;mainWrapper&quot;]/div[@class=&quot;Modal js-Modal email-signup-modal js-NewsletterSignupModal&quot;]/div[@class=&quot;Modal__content js-Modal__content&quot;]/div[@class=&quot;Modal__content__inner&quot;]/span[@class=&quot;Icon Modal__content__close js-Modal__content__close&quot;]/svg[1]/use[1]</value>
+      <webElementGuid>ca2475c7-8970-4934-93d9-e0588922340f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//use[@href = '/dam/jcr:8ee18bcc-a370-40fe-b350-a64dde63fb55/cms.svg#close']</value>
+      <webElementGuid>cb2494ba-e5d3-405d-b8bc-830d597aab7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

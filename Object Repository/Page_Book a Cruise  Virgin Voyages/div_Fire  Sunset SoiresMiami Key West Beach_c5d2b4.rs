@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Fire  Sunset SoiresMiami Key West Beach_c5d2b4</name>
+   <tag></tag>
+   <elementGuidId>57b60d7b-dc06-4e4e-b793-2a87e7962623</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.VoyageCard__description</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='voyageGroupMainContent']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bdc65fd5-ff54-4a3c-a6b7-031993a3b56a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VoyageCard__description</value>
+      <webElementGuid>17878ca7-d95d-4e31-9c26-273aab6f218e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fire &amp; Sunset SoiréesMiami • Key West • Beach Club at Bimini • Miami View detailsShare this$742,50$990avg starting price per sailor 4  sailorsSea TerraceScarlet Lady Savings applied Savings appliedView cabins</value>
+      <webElementGuid>865c0569-81c5-4224-8d3f-b51eb235c45f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;voyageGroupMainContent&quot;)/div[@class=&quot;VoyageCardContainer&quot;]/div[@class=&quot;VoyageCard withSpecialSailing&quot;]/div[@class=&quot;VoyageCard__description&quot;]</value>
+      <webElementGuid>cfb60be3-fefe-4600-b692-025fe7ef24fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='voyageGroupMainContent']/div/div/div[2]</value>
+      <webElementGuid>72f7c3e0-f4b4-42ac-bfc6-5b2596f35d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[1]/following::div[4]</value>
+      <webElementGuid>4ec84687-2ca0-4a83-a765-f61450a96a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wed'])[1]/following::div[4]</value>
+      <webElementGuid>73656ac8-9264-4351-beda-4950c29c57d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/div/div/div[2]</value>
+      <webElementGuid>5e7ac8f1-a667-4e64-a1f8-f13f2c4a03ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Fire &amp; Sunset SoiréesMiami • Key West • Beach Club at Bimini • Miami View detailsShare this$742,50$990avg starting price per sailor 4  sailorsSea TerraceScarlet Lady Savings applied Savings appliedView cabins' or . = 'Fire &amp; Sunset SoiréesMiami • Key West • Beach Club at Bimini • Miami View detailsShare this$742,50$990avg starting price per sailor 4  sailorsSea TerraceScarlet Lady Savings applied Savings appliedView cabins')]</value>
+      <webElementGuid>a31dbaa2-50e9-49f3-89c6-d6c60fc12448</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

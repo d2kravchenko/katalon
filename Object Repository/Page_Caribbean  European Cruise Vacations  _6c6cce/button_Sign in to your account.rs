@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign in to your account</name>
+   <tag></tag>
+   <elementGuidId>ec21ce8c-857a-48c8-95e8-a1ade03e5e36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-block.btn-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9e67ab62-7392-43a8-aa04-d3b7b91a7fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block btn-secondary</value>
+      <webElementGuid>2f3ab13a-66db-4dc2-ab23-f523ebafedc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9df8be09-65d9-486b-bd53-b947ce26c5c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in to your account</value>
+      <webElementGuid>81e38ab3-f8c0-4e64-bcd5-49164d3cd003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;booking-account&quot;)/div[@class=&quot;Popover -open&quot;]/div[1]/div[@class=&quot;Popover__container fadeIn-enter-done&quot;]/div[@class=&quot;Popover__content&quot;]/div[@class=&quot;AccountDropdown__container&quot;]/button[@class=&quot;btn btn-block btn-secondary&quot;]</value>
+      <webElementGuid>26feb747-f109-4599-b7ca-b87994df053f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>1c6a5d79-618b-4620-947c-79ad3bd4649a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='booking-account']/div/div/div[2]/div[3]/div/button</value>
+      <webElementGuid>81fecc0f-4745-4919-b78a-e4d6ba78ca00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have no recent searches'])[1]/following::button[1]</value>
+      <webElementGuid>85818960-b81e-4d62-8a40-0a1a0142d9b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nothing to see here!'])[1]/following::button[1]</value>
+      <webElementGuid>ac2c951a-c665-4990-8800-79aa79599d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOOK'])[1]/preceding::button[1]</value>
+      <webElementGuid>885cba2b-3d65-4960-a96d-2d9996b0aa28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Onboard'])[1]/preceding::button[1]</value>
+      <webElementGuid>02fd0cfe-96a5-4720-a57b-f539f5546a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign in to your account']/parent::*</value>
+      <webElementGuid>df06e0bf-a572-44ed-8927-ee6e9d217a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>ea4af79f-f3b9-4a5a-8a4d-ad5a838a4a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Sign in to your account' or . = 'Sign in to your account')]</value>
+      <webElementGuid>9d655051-8798-4286-8956-11aa0ddb8f73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
